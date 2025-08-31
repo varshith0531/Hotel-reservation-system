@@ -64,7 +64,7 @@ A dynamic hotel room reservation system that optimally assigns rooms based on tr
    ```
 
 4. **Open your browser** and navigate to `http://localhost:3000`
-
+   **Deployed Link**-`https://hotel-reservation-system-inky.vercel.app/`
 ### Build for Production
 ```bash
 pnpm build
